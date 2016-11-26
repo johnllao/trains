@@ -1,0 +1,26 @@
+﻿body {
+    margin: 5px;
+}
+.title {
+    color: #fff !important;
+}
+h3.city-name {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #369;
+}
+table.property {
+    table-layout: fixed;
+}
+p.weather-name {
+    color: #cc5b23;
+}
+td.property-head {
+    width: 120px !important;
+    font-weight: bold;
+    border: none;
+}
+td.property-value {
+    width: 120px !important;
+    border: none;
+    text-align: right;
+}
